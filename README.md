@@ -10,12 +10,12 @@ This project is a fully functional calculator designed using **HTML, CSS, and Ja
 
 ## ✨ Key Features
 
-- ✅ Clean, neon-glow user interface
-- ✅ Basic arithmetic operations (+, –, ×, ÷, %, .)
-- ✅ Keyboard support for input and shortcuts
-- ✅ Clear (`C`) and Backspace (`DEL`) functionality
-- ✅ Responsive layout for desktop and mobile
-- ✅ Error handling with safe expression evaluation
+✅ Clean, neon-glow user interface
+✅ Basic arithmetic operations (+, –, ×, ÷, %, .)
+✅ Keyboard support for input and shortcuts
+✅ Clear (`C`) and Backspace (`DEL`) functionality
+✅ Responsive layout for desktop and mobile
+✅ Error handling with safe expression evaluation
 
 ## ⚙️ Tools & Technologies Used
 
@@ -26,7 +26,7 @@ This project is a fully functional calculator designed using **HTML, CSS, and Ja
 | UI/UX Enhancement   | Neon-themed CSS, Responsive Design   |
 | Version Control     | Git                                  |
 | IDE/Editor          | Visual Studio Code                   |
-| Deployment          | GitHub Pages / Netlify               |
+| Deployment          | GitHub Pages                         |
 
 ## 🔑 How It Works
 
